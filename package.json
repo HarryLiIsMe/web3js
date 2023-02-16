@@ -1,0 +1,16 @@
+{
+  "name": "web3jstest",
+  "version": "1.0.0",
+  "description": "``` npm install npm run web3test ```",
+  "main": "index.js",
+  "scripts": {
+    "web3tests": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sleep-promise": "^9.1.0",
+    "web3": "^1.8.2"
+  }
+}
